@@ -1,5 +1,2 @@
-const app = 'This is my app.';
+import Calculate from './calculate.js';
 
-let answer = (number) => {
-  return number * 2;
-};
